@@ -1,0 +1,10 @@
+name = ach_drupal_theme
+description = Simple fixed width 3 column, based on the Burnt theme.
+core = 6.x
+engine = phptemplate
+screenshot = screenshot.png
+
+version = 6.x-1.0
+core = "6.x"
+project = "burnt"
+datestamp = "1203022806"
