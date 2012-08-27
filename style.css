@@ -281,21 +281,28 @@ ul.navlist li.first {
 ul.nice-menu {
     left: 240px;
     top: 111px;
-    width: 700px;
+    float:none;
+    width: 690px;
+    display:table;
     position: absolute;
     padding: 0;
     margin:0;
+    border:none;
     background: #eee;
-    border-bottom: 1px solid #888;
-    border-right: 1px solid #aaa;
-    border-left: 1px solid #aaa;
-    -webkit-background-clip: padding-box;
 }
 
+ul.nice-menu::after {
+  display:none !important;
+}
 ul.nice-menu > li { 
     width: 20%;
+    display:table-cell;
     border:none;
+    float:none;
+    margin:0;
+    padding:0;
     text-align: center;
+    border:none;
     border-right: 1px solid #ccc;
     box-sizing:border-box;
 }
@@ -306,6 +313,7 @@ ul.nice-menu > li:last-child {
 
 ul.nice-menu a {
     color: #333;
+    display:block;
     font-weight: bold;
     padding: 5px 0;
 }
