@@ -34,7 +34,7 @@
 	<div id="activities" class="column">
     <h1>Activities</h1>
     <div>
-      <h2><a href="http://www.dh2013.unl.edu/">Digital Humanities 2013</a></h2>
+      <h2><a href="http://dh2013.unl.edu/">Digital Humanities 2013</a></h2>
       <p><a href="http://dh2013.unl.edu" class="image"><img src="<?php echo path_to_theme(); ?>/images/DH13_simplified.png"></a> Our annual conference, to be held at the University of Nebraska in Lincoln, Nebraska, July 16–19.</p>
 
 			<h2><a href="outreach">Outreach</a></h2> 
