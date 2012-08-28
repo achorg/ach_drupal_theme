@@ -34,8 +34,8 @@
 	<div id="activities" class="column">
     <h1>Activities</h1>
     <div>
-      <h2><a href="http://www.dh2012.uni-hamburg.de/">Digital Humanities 2012</a></h2>
-      <p>Our annual conference, to be held this summer in Hamburg, Germany July 16–22.</p>
+      <h2><a href="http://www.dh2013.unl.edu/">Digital Humanities 2013</a></h2>
+      <p><a href="http://dh2013.unl.edu" class="image"><img src="<?php echo path_to_theme(); ?>/images/DH13_simplified.png"></a> Our annual conference, to be held at the University of Nebraska in Lincoln, Nebraska, July 16–19.</p>
 
 			<h2><a href="outreach">Outreach</a></h2> 
       <p>We cultivate a broad DH community by supporting events and activities, providing mentoring services and help for job-seekers, and working on issues that matter to the digital humanities.</p>
@@ -75,11 +75,11 @@
     <h1>Publications</h1>
     <div>
         <h2><a href="http://www.digitalhumanities.org/dhq/">Digital Humanities Quarterly</a></h2>
-        <p><a href="http://www.digitalhumanities.org/dhq/" class="image"><img src="sites/all/themes/ach03/images/dhqcliplogo.png"  alt="DHQ" /></a>Our own open-access, peer-reviewed, online journal covering all aspects of digital media in the humanities.</p>
+        <p><a href="http://www.digitalhumanities.org/dhq/" class="image"><img src="<?php echo path_to_theme(); ?>/images/dhqlogo.png" alt="DHQ" /></a>Our own open-access, peer-reviewed, online journal covering all aspects of digital media in the humanities.</p>
 
         <h2><a href="http://www.digitalhumanities.org/humanist/">Humanist</a></h2>
 			<p>
-				<a href="http://www.digitalhumanities.org/humanist/" class="image"><img src="webfm_send/25" alt="Humanist" /></a>An electronic seminar and forum on humanities computing and DH, continuously active since 1987. <!-- sites/all/themes/ach03/images/littlehumanist.gif old pic just in case --></p>
+      <a href="http://www.digitalhumanities.org/humanist/" class="image"><img src="<?php echo path_to_theme(); ?>/images/humanist.gif" alt="Humanist" /></a>An electronic seminar and forum on humanities computing and DH, continuously active since 1987. <!-- sites/all/themes/ach03/images/littlehumanist.gif old pic just in case --></p>
       
       <h2><a href="http://llc.oxfordjournals.org/">LLC</a></h2>
       <p>
