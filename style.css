@@ -17,7 +17,7 @@ body {
 	background-color: #373535;
 	height: 100%;
 	margin: 0;
-	padding: 0;
+	padding: 0 0 1em;
   color: #333;
 }
 
@@ -29,14 +29,13 @@ img {
 
 /* Whole Container */
 #container {
-  height: auto;
   width: 960px;
   margin: 0 auto;
   background: #fff url(images/front.png) no-repeat 0 40px;
   position: relative;
   overflow:hidden;
   zoom:1;
-  padding:2em 0;
+  padding:2em 0 0;
 }
 
 /* GENERAL */
@@ -467,19 +466,18 @@ div.dashboard-panel-head {
 /* FOOTER ELEMENTS */
 #footer {
   clear: both;
-  padding: 0px 5px 0px 5px;
+  padding: 1em 2em;
+  background: #303030;
+  margin-top: 1em;
 }
-#footer p {
-  color:#89817f;
-  padding: 5px;
+
+#footer * {
+  color: #fff;
+  color: rgba(255,255,255,0.8);
 }
-#footer p a {
-  color: #89817f;
-  border-bottom: 1px dotted #89817f;
-}
-#footer p a:hover {
-  color: #FFFFFF;
-  background-color:#575352;
+
+#footer a {
+  text-decoration:underline;
 }
 
 /* Home Page Styles */

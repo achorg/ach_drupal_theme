@@ -48,12 +48,9 @@
     </div>
   <?php endif; ?>
  
-	<div id="footer">
-    <p>
-      <?php print $footer_message ?>
-      <?php print $closure ?>
-    </p>
-	</div>
+  <div id="footer">
+    <p>Content licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></p>
+  </div>
 
 </div>
 

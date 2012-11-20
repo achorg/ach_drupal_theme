@@ -85,14 +85,17 @@
       <p>
         <a href="http://llc.oxfordjournals.org/" class="image"><img src="webfm_send/26" alt="LLC" /></a>
         The journal of digital scholarship in the humanities, which manages ACH membership subscriptions.</p>
-    <div class="other_links">
-			<a href="http://209.20.69.206:8080/dh-abstracts/search" target="_blank">ACH/ALLC Conference Abstracts</a><br /><a href="mla-pages">ACH at the MLA Convention</a>
+      <div class="other_links">
+        <a href="http://209.20.69.206:8080/dh-abstracts/search" target="_blank">ACH/ALLC Conference Abstracts</a><br /><a href="mla-pages">ACH at the MLA Convention</a>
+      </div>
     </div>
 
-		</div>
-	</div>
-<div style="clear:both;"><!-- just clearfixin' --></div>
+    <div style="clear:both;"></div>
+
+  </div>
+  <div id="footer">
+    <p>Content licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></p>
+  </div>
 </div>
-<div style="clear:both;"><!-- just clearfixin' --></div>
 </body>
 </html>
