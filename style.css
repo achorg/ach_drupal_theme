@@ -469,6 +469,8 @@ div.dashboard-panel-head {
   padding: 1em 2em;
   background: #303030;
   margin-top: 1em;
+  overflow:hidden;
+  *zoom:1;
 }
 
 #footer * {
@@ -478,6 +480,18 @@ div.dashboard-panel-head {
 
 #footer a {
   text-decoration:underline;
+}
+
+#ach-contact {
+  float:left;
+  width: 35%;
+  line-height: 1.5em;
+}
+
+#footer .license {
+  float:right;
+  width: 35%;
+  text-align:right;
 }
 
 /* Home Page Styles */
